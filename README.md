@@ -1,6 +1,4 @@
-# ansible-wireguard-vpn
-
-Ansible + WireGuard = VPN
+# Ansible + WireGuard
 
 ## Introduction
 
